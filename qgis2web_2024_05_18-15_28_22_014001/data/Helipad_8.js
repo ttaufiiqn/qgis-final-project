@@ -1,0 +1,1 @@
+var json_Helipad_8 = {"type":"FeatureCollection","name":"Helipad_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n11293005082","osm_id":"11293005082","osm_type":"node","aeroway":"helipad"},"geometry":{"type":"Point","coordinates":[12.446138,41.901972]}}]}
